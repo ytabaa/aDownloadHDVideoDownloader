@@ -20,13 +20,13 @@
 
     <Preference
         android:title="Rate us!"
-        android:summary="if app work good. Just take action and Rate us!"
+        android:summary="if you like this app. Please just take action and Rate us! Thanks"
         android:key="rateus">
     </Preference>
 
     <Preference
         android:title="Share this APP"
-        android:summary="let your friends know about my app."
+        android:summary="let your friends know about this app."
         android:key="sharethisapp">
     </Preference>
 
@@ -38,7 +38,7 @@
 
     <Preference
         android:title="Contact me"
-        android:summary="if you have any idea or this app not work properly. please contact me at: mobicodepro@gmail.com"
+        android:summary="if you have any idea or this app not work properly. please contact me at: store4tools@gmail.com"
         android:key="contactme">
     </Preference>
 
