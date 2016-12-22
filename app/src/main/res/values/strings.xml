@@ -1,6 +1,6 @@
 <resources>
 
-    <string name="app_name">Video Downloader HD Quality</string>
+    <string name="app_name">Tube Video Downloader HD</string>
     <string name="action_settings">Settings</string>
     <string name="ok">OK!</string>
     <string name="alert">Please make sure you are Adding a correct URL!!!</string>
